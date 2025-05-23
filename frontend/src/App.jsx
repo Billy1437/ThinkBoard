@@ -4,6 +4,7 @@ import HomePage from "./pages/HomePage";
 import CreatPage from "./pages/CreatPage";
 import NoteDetailPage from "./pages/NoteDetailPage";
 import toast from "react-hot-toast";
+import Footer from "./components/Footer";
 
 const App = () => {
   return (
